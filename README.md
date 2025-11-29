@@ -1,1 +1,1 @@
-# m-t-o-simple.com
+# meteo-simple.com
